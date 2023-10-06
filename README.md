@@ -1,4 +1,4 @@
 # First-Project
 This My First Repo.
 <br>
-author - Vikrant Singh
+author - Vikrant Singh (Yash)
